@@ -32,14 +32,7 @@ Before you begin, ensure you have the following installed:
 - MongoDB (local installation or MongoDB Atlas account)
 
 ## Installation
-
-1. Clone the repository:
-```bash
-git clone [your-repository-url]
-cd student-resource-exchange
-```
-
-2. Install dependencies for all components:
+1. Install dependencies for all components:
 ```bash
 npm run install-all
 ```
@@ -82,18 +75,6 @@ student-resource-exchange/
 - `PUT /api/posts/:id` - Update a post
 - `DELETE /api/posts/:id` - Delete a post
 
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Support
-
-For support, please open an issue in the GitHub repository or contact the maintainers. 
